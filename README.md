@@ -1,7 +1,7 @@
 # Task-driven-Semantic-Coding-via-RL
 The code for our proposed Task-driven Semantic Coding via Reinforcement Learning in TIP2021
 
-# HST
+# RSC
 Task-driven Semantic Coding via Reinforcement Learning
 > [**RSC**](https://arxiv.org/abs/2106.03511), Xin Li, Jun Shi, Zhibo Chen.    
 
